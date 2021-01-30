@@ -1,12 +1,11 @@
 # Bienvenu sur ma page Github
 ## Visiteurs étrangers par cantons pendant 4 mois en 2017 et 2018
 
-```
-[https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg]
-```
-### Markdown
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Choix de la thématique 
+J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne.
+
 
 ```markdown
 Syntax highlighted code block
