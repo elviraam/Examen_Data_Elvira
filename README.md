@@ -1,8 +1,8 @@
 # Bienvenu sur ma page Github
 ## Visiteurs étrangers par cantons pendant 4 mois en 2017 et 2018
-
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg)
-
+<center>
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%20Pantone%20.svg)
+</center>
 ### Choix de la thématique 
 J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne.
 
