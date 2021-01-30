@@ -1,8 +1,8 @@
 # Bienvenu sur ma page Github
 ## Visiteurs étrangers par cantons pendant 4 mois en 2017 et 2018
-<center>
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/200px-Flag_of_Switzerland_%28Pantone%29.svg.png)
-</center>
+
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/200px-Flag_of_Switzerland_%28Pantone%29.svg.png)
+
 
 
 ### Choix de la thématique 
