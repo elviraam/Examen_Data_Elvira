@@ -6,7 +6,7 @@
 
 
 ### Choix de la thématique 
-J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne. J'ai donc décidé de travailler sur un sujet qui touchait la population suisse de 1980 à 2018. Pour cela, j'ai utilisé un jeu de données que j'ai trouvé sur le site _opendata swiss_ .
+J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne. J'ai donc choisi un sujet sur **la population suisse résidante dans les agglomérations de 1980 à 2018**. Pour cela, j'ai utilisé un jeu de données que j'ai trouvé sur le site _opendata swiss_ .
 
 
 ```markdown
