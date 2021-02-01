@@ -129,7 +129,7 @@ Cette carte provient du site **_map.geo.admin.ch_**. Elle représente la populat
 
 <center><iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=fr&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bfs.volkszaehlung-bevoelkerungsstatistik_einwohner&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,2000&catalogNodes=688&E=2622720.54&N=1224537.07&zoom=1' width='600' height='400' frameborder='0' style='border:0'></iframe></center>
 
-###Diagramme
+### Diagramme
 <center>
 <iframe title="Population résidante dans les agglomérations en 1980" aria-label="Histogramme" id="datawrapper-chart-kl7zb" src="https://datawrapper.dwcdn.net/kl7zb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1264"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
