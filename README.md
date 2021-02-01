@@ -16,4 +16,6 @@ Pour cette examen, j'ai utilisé un jeu de données que j'ai trouvé sur le site
 Voici donc les tranformations apportées:
 CODE A METTRE ...
 
+### Carte de la Suisse
 
+<center><iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=fr&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bfs.volkszaehlung-bevoelkerungsstatistik_einwohner&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,2000&catalogNodes=688&E=2622720.54&N=1224537.07&zoom=1' width='400' height='300' frameborder='0' style='border:0'></iframe></center>
