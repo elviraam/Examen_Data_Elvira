@@ -8,9 +8,7 @@
 2. [Visualisations](#Visualisations)
 3. [Modification Jeu](#ModificationJeu)
 
-## Introduction
-## Visualisation
-## Modif
+
 # Introduction
 
 ### Thématique
