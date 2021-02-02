@@ -3,18 +3,18 @@
 
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/200px-Flag_of_Switzerland_%28Pantone%29.svg.png)
 
-
+# Introduction
 
 ### Thématique
 J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne. J'ai donc choisi un sujet sur **la population suisse résidante dans les agglomérations de 1980 à 2018**. Pour mieux définir le sujet, selon wikipédia, _En Suisse comme ailleurs, la notion de ville évolue au cours du temps. Au xxe siècle, la ville, selon sa définition statistique, est une agglomération supérieure à 10 000 habitants, mais d’un point de vue historique, la notion est bien plus complexe et nullement liée à l'importance de la population._
 
 
 
-### Jeu de données: Introduction
+### Jeu de données
 
 Pour cette examen, j'ai utilisé un jeu de données que j'ai trouvé sur le site _opendata swiss_ .Ce jeu de donnée décris la population résidante dans les différantes agglomérations suisse de 1980 à 2018. J'ai décidé de nettoyer mon jeu de données grâce à Openrefine car je trouvais que certaines informations n'étaient pas utiles et certaines colonnes étaient mal nommées.
 
-### transformations du jeu de données
+## transformations du jeu de données
 Voici donc les tranformations apportées à partir de Openrefine:
 - J'ai décidé de supprimer deux colonnes qui étaient vides, j'ai renommée les deux colonnes sur la variation de la population _vpop_  afin que le nomage soit plus claire. J'ai également supprimer quelques lignes qui n'étaient pas utiles à mon jeu et qui apportait de l'incompréhension lorsque j'ajoutais mon jeu dans certain graphique.
 ```
@@ -123,6 +123,7 @@ Voici donc les tranformations apportées à partir de Openrefine:
   }
 ]
 ```
+# Visualisations 
 
 ### Circle Packing
 J'ai utilisé RAWgraph pour ce grahique. Je pense que que le _circle Packing_ est le meilleur graph pour représenter la population résidante en Suisse dans les années 1980. On constate que la population à cette époque est beaucoup plus concentrée dans la ville de Zürich qui est à la fois un canton dans la partie alémanique de la Suisse et que le reste de la population est concentré dans d'autres villes. Ce qui est très visible également, c'est que les plus gros cercles, sont des villes alémaniques , **Zürich, Bâle, Berne** puis **Genève et Lausanne** viennent juste après. Il faut savoir que lorsque l'on parle de population, cela concerne les étrangers de nationalité suisse, ceux qui ne sont pas de nationalité suisse et les suisses d'origine. 
