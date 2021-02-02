@@ -1,14 +1,17 @@
 
 ## Population résidante dans les agglomérations, de 1980 à 2018
-
-   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/200px-Flag_of_Switzerland_%28Pantone%29.svg.png)
-
+<p class="text-justify">
+  
+  ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/200px-Flag_of_Switzerland_%28Pantone%29.svg.png)
+ </p>
 # Introduction
 
 ### Thématique
+<p class="text-justify">
+
 J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet qui touche mon pays la Suisse. En effet, la Suisse, appelée également _Confédération Suisse_ est un petit pays d'Europe centrale formé de 26 cantons et dont la capitale est Berne. J'ai donc choisi un sujet sur **la population suisse résidante dans les agglomérations de 1980 à 2018**. Pour mieux définir le sujet, selon wikipédia, _En Suisse comme ailleurs, la notion de ville évolue au cours du temps. Au xxe siècle, la ville, selon sa définition statistique, est une agglomération supérieure à 10 000 habitants, mais d’un point de vue historique, la notion est bien plus complexe et nullement liée à l'importance de la population._
 
-
+</p>
 
 ### Jeu de données
 
