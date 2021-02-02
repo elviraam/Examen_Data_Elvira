@@ -14,7 +14,7 @@ J'ai décidé dans le cadre de mon cours de datavisualisation d'aborder un sujet
 
 Pour cette examen, j'ai utilisé un jeu de données que j'ai trouvé sur le site _opendata swiss_ .Ce jeu de donnée décris la population résidante dans les différantes agglomérations suisse de 1980 à 2018. J'ai décidé de nettoyer mon jeu de données grâce à Openrefine car je trouvais que certaines informations n'étaient pas utiles et certaines colonnes étaient mal nommées.
 
-## transformations du jeu de données
+### transformations du jeu de données
 Voici donc les tranformations apportées à partir de Openrefine:
 - J'ai décidé de supprimer deux colonnes qui étaient vides, j'ai renommée les deux colonnes sur la variation de la population _vpop_  afin que le nomage soit plus claire. J'ai également supprimer quelques lignes qui n'étaient pas utiles à mon jeu et qui apportait de l'incompréhension lorsque j'ajoutais mon jeu dans certain graphique.
 ```
@@ -137,6 +137,6 @@ Cette carte provient du site **_map.geo.admin.ch_**. Elle représente la populat
 <center><iframe src='https://map.geo.admin.ch/embed.html?topic=ech&lang=fr&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.bfs.volkszaehlung-bevoelkerungsstatistik_einwohner&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,2000&catalogNodes=688&E=2622720.54&N=1224537.07&zoom=1' width='600' height='400' frameborder='0' style='border:0'></iframe></center>
 
 ### Diagramme en barre
-
+Pour ce graphique, j'ai choisi un diagramme en barre afin de montrer la variation de la population résidante en agglomération entre 2000-2018. Pour mieux comprendre le terme de variation, selon le site [https://www.insee.fr/fr/metadonnees/definition/c1020](insee)
 <iframe title="Variation de la population résidante dans les agglomérations entre 2000-2018" aria-label="Histogramme" id="datawrapper-chart-kl7zb" src="https://datawrapper.dwcdn.net/kl7zb/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1289"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
