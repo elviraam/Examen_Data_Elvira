@@ -6,7 +6,7 @@
 # Table of contents 
 1.[Introduction](#Introduction)
 2.[Visualisations](#Visualisation)
-3.[Augmentation](#Augmentation jeu de données)
+3.[Augmentation] (#Augmentation jeu de données)
 
 # Introduction
 
