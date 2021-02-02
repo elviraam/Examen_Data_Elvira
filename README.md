@@ -155,7 +155,7 @@ Pour ce graphique, j'ai choisi un diagramme en barre afin de montrer la variatio
 </script>
 
 # Modification jeu de données
-j'ai décidé d'ajouter des municipalités et villes dans ma colonne _agglomérations_ afin d'enrichir mon jeu de données grâce à wikidata. Il faut savoir qu'en Suisse certains cantons sont également des villes comme par exemple Zürich qui est une ville qui fait parti du canton de Zürich, idem pour Berne et autres.
+J'ai décidé d'ajouter des municipalités et villes dans ma colonne _agglomérations_ afin d'enrichir mon jeu de données grâce à wikidata sur Openrefine. Il faut savoir qu'en Suisse certains cantons sont également des villes comme par exemple Zürich qui est une ville qui fait parti du canton de Zürich, idem pour Berne et autres.
 ```
 [
   {
